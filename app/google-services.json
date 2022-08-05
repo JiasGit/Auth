@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "208053561801",
+    "project_id": "auth-a4ac9",
+    "storage_bucket": "auth-a4ac9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:208053561801:android:c4be53b6c316e64e43a018",
+        "android_client_info": {
+          "package_name": "dream.lab.auth"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "208053561801-mmpk2q1losjgb587avjv3j9r8du9af5s.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBqVNKZPIm0UsjM_XYFSZbuBkJ0n81n9XQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "208053561801-mmpk2q1losjgb587avjv3j9r8du9af5s.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
